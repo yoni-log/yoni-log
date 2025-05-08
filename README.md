@@ -1,10 +1,10 @@
 # Full-time ragebaiter, part-time programmer
 
-AI-written profiles are lame. If you're still reading this, you could be a programmer! 
+AI-written profiles are lame. If you haven't clicked away yIf you're still reading this, you could be a programmer! 
 Well, assuming you don't use AI for menial tasks such as writing generic 100-word READMEs to impress LinkedIn recruite-I mean whatever ATS LLM is popular now...
-Whatever, someone insert a philosophical argument here about AI, I can't think of any because my English teacher assigned . Everyone from LinkedIn is gone, 
-now we only have to worry about the "[first & last name]1337" folks from UnknownCheats asking 
-why a program that reads memory is firing off their free anti-virus. 
+Whatever, someone insert a philosophical argument here about AI, I can't think of any because my English teacher kept commenting "?" over my entire body paragraphs 
+just for a slight hint of vagueness (such as not explicitly citing Hamlet's real-time coordinates while holding Yorick's skull). Great, everyone from LinkedIn is 
+probably gone after that, now we only have to worry about the "[first & last name]1337" folks from UnknownCheats asking  why a program that reads memory is firing off their free anti-virus. 
 Whatever, I think it's time I introduce some projects I am currently/finished working on!
 
 --
